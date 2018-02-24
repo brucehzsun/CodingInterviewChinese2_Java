@@ -179,7 +179,7 @@ public class BinaryTreeTraversal {
      *
      * @param root
      */
-    private static void preOrderTraversalRecursion(BinaryTreeNode root) {
+    public static void preOrderTraversalRecursion(BinaryTreeNode root) {
         if (root == null) {
             return;
         }
