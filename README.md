@@ -9,9 +9,10 @@
 ##### _04_FindInPartiallySortedMatrix 面试题4：二维数组中的查找
 ##### _05_ReplaceSpace 面试题5：替换空格
 ##### _06_PrintListInReversedOrder 面试题6：从尾到头打印链表
-##### BinaryTreeTraversal
-包含二叉树前序遍历，中序遍历，后续遍历。每种包含循环，递归两种方法。共6种遍历模式
 ##### _07_ConstructBinaryTree 面试题7：重建二叉树
 ##### _08_NextNodeInBinaryTrees 面试题8：二叉树的下一个结点
 ##### _09_QueueWithTwoStacks 面试题9：用两个栈实现队列
 ##### _10_Fibonacci 面试题10：斐波那契数列
+
+##### BinaryTreeTraversal 二叉树前序，中序，后续迭代
+##### QuickSort 快速排序
