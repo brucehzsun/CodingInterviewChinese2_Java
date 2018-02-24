@@ -13,6 +13,7 @@
 ##### _08_NextNodeInBinaryTrees 面试题8：二叉树的下一个结点
 ##### _09_QueueWithTwoStacks 面试题9：用两个栈实现队列
 ##### _10_Fibonacci 面试题10：斐波那契数列
+##### _11_MinNumberInRotatedArray 面试题11：旋转数组的最小数字
 
-##### BinaryTreeTraversal 二叉树前序，中序，后续迭代
+##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
