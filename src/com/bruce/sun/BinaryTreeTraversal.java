@@ -73,8 +73,7 @@ public class BinaryTreeTraversal {
             //则可以直接输出当前节点的值
             if (node.right == null || node.right == lastVisit) {
                 System.out.print(node.value + "\t");
-                stack.pop();
-                lastVisit = node;
+                lastVisit = stack.pop();
                 node = null;
             } else {
                 //否则，继续遍历右子树
