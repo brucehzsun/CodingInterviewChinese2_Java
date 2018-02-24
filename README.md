@@ -12,3 +12,4 @@
 ##### BinaryTreeTraversal
 包含二叉树前序遍历，中序遍历，后续遍历。每种包含循环，递归两种方法。共6种遍历模式
 ##### _07_ConstructBinaryTree 面试题7：重建二叉树
+##### _08_NextNodeInBinaryTrees 面试题8：二叉树的下一个结点
