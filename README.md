@@ -16,6 +16,7 @@
 ##### _11_MinNumberInRotatedArray 面试题11：旋转数组的最小数字
 ##### _14_CuttingRope 面试题14：剪绳子
 ##### _15_NumberOf1InBinary 面试题15：二进制中1的个数
+##### _16_Power 面试题16：数值的整数次方
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
