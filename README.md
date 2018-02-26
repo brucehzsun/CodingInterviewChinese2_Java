@@ -18,6 +18,7 @@
 ##### _15_NumberOf1InBinary 面试题15：二进制中1的个数
 ##### _16_Power 面试题16：数值的整数次方
 ##### _18_01_DeleteNodeInList 面试题6：从尾到头打印链表
+##### _18_02_DeleteDuplicatedNode 面试题18（二）：删除链表中重复的结点
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
