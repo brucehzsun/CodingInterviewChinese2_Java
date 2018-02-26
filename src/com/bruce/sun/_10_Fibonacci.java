@@ -47,18 +47,18 @@ public class _10_Fibonacci {
     // ====================测试代码====================
     private static void Test(int n, int expected) {
         if (fibonacci(n) == expected)
-            MyUtils.print("Test for " + n + " in solution1 passed.\n");
+            MyUtils.print("test for " + n + " in solution1 passed.\n");
         else
-            MyUtils.print("Test for " + n + " in solution1 failed.\n");
+            MyUtils.print("test for " + n + " in solution1 failed.\n");
 
 //        if (Fibonacci_Solution2(n) == expected)
-//            MyUtils.print("Test for " + n + " in solution1 passed.\n");
+//            MyUtils.print("test for " + n + " in solution1 passed.\n");
 //        else
-//            MyUtils.print("Test for " + n + " in solution1 failed.\n");
+//            MyUtils.print("test for " + n + " in solution1 failed.\n");
 //
 //        if (Fibonacci_Solution3(n) == expected)
-//            MyUtils.print("Test for " + n + " in solution1 passed.\n");
+//            MyUtils.print("test for " + n + " in solution1 passed.\n");
 //        else
-//            MyUtils.print("Test for " + n + " in solution1 failed.\n");
+//            MyUtils.print("test for " + n + " in solution1 failed.\n");
     }
 }

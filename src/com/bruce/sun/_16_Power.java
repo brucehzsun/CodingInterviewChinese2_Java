@@ -16,19 +16,19 @@ public class _16_Power {
      */
     public static void main(String[] args) {
         // 底数、指数都为正数
-        Test("Test1", 2, 3, 8);
+        Test("test1", 2, 3, 8);
 
         // 底数为负数、指数为正数
-        Test("Test2", -2, 3, -8);
+        Test("test2", -2, 3, -8);
 
         // 指数为负数
-        Test("Test3", 2, -3, 0.125);
+        Test("test3", 2, -3, 0.125);
 
         // 指数为0
-        Test("Test4", 2, 0, 1);
+        Test("test4", 2, 0, 1);
 
         // 底数、指数都为0
-        Test("Test5", 0, 0, 1);
+        Test("test5", 0, 0, 1);
 
         // 底数为0、指数为正数
         Test("Test6", 0, 4, 0);

@@ -19,7 +19,7 @@ public class _06_PrintListInReversedOrder {
     public static void main(String[] args) {
 
         // 1->2->3->4->5
-        MyUtils.print("\nTest1 begins.\n");
+        MyUtils.print("\ntest1 begins.\n");
 
         ListNode pNode1 = MyUtils.createListNode(1);
         ListNode pNode2 = MyUtils.createListNode(2);

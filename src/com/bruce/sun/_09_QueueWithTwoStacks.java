@@ -40,9 +40,9 @@ public class _09_QueueWithTwoStacks {
     // ====================测试代码====================
     private static void Test(String actual, String expected) {
         if (expected.equals(actual))
-            MyUtils.print("Test passed.\n");
+            MyUtils.print("test passed.\n");
         else
-            MyUtils.print("Test failed.\n");
+            MyUtils.print("test failed.\n");
     }
 
     public static void main(String[] argv) {
