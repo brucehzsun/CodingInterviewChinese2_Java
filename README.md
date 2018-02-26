@@ -15,6 +15,7 @@
 ##### _10_Fibonacci 面试题10：斐波那契数列
 ##### _11_MinNumberInRotatedArray 面试题11：旋转数组的最小数字
 ##### _14_CuttingRope 面试题14：剪绳子
+##### _15_NumberOf1InBinary 面试题15：二进制中1的个数
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
