@@ -54,7 +54,7 @@ public class QuickSort {
             }
 
             if (i < j) {
-                swap(data, i, j);
+                MyUtils.swap(data, i, j);
             }
         }
 
@@ -65,9 +65,5 @@ public class QuickSort {
         return i;
     }
 
-    private static void swap(int[] data, int startPos, int endPos) {
-        int temp = data[startPos];
-        data[startPos] = data[endPos];
-        data[endPos] = temp;
-    }
+
 }

@@ -58,4 +58,10 @@ public class MyUtils {
         else
             return false;
     }
+
+    public static void swap(int[] data, int startPos, int endPos) {
+        int temp = data[startPos];
+        data[startPos] = data[endPos];
+        data[endPos] = temp;
+    }
 }
