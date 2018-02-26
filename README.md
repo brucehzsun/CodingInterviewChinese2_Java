@@ -22,6 +22,7 @@
 ##### _21_ReorderArray 面试题21：调整数组顺序使奇数位于偶数前面
 ##### _22_KthNodeFromEnd 面试题22：链表中倒数第k个结点
 ##### _23_EntryNodeInListLoop 面试题23：链表中环的入口结点
+##### _24_ReverseList 面试题24：反转链表
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
