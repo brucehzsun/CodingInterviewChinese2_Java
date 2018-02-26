@@ -2,7 +2,6 @@ package com.bruce.sun;
 
 import com.bruce.sun.domain.ListNode;
 import com.bruce.sun.utils.MyUtils;
-import jdk.internal.jline.internal.Nullable;
 
 //==================================================================
 // 《剑指Offer——名企面试官精讲典型编程题》代码
@@ -18,7 +17,6 @@ public class _22_KthNodeFromEnd {
      * 例如一个链表有6个结点，从头结点开始它们的值依次是1、2、3、4、5、6。
      * 这个链表的倒数第3个结点是值为4的结点。
      */
-    @Nullable
     private static ListNode findKthToTail(ListNode n1, int k) {
         if (n1 == null || k <= 0) {
             return null;
