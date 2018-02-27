@@ -24,6 +24,7 @@
 ##### _23_EntryNodeInListLoop 面试题23：链表中环的入口结点
 ##### _24_ReverseList 面试题24：反转链表
 ##### _25_MergeSortedLists 面试题25：合并两个排序的链表
+##### _26_SubstructureInTree 面试题26：树的子结构
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序

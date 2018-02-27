@@ -64,4 +64,16 @@ public class MyUtils {
         data[startPos] = data[endPos];
         data[endPos] = temp;
     }
+
+    public static BinaryTreeNode createBinaryTreeNode(int dbValue) {
+        BinaryTreeNode pNode = new BinaryTreeNode(dbValue);
+        return pNode;
+    }
+
+    public static void connectTreeNodes(BinaryTreeNode pParent, BinaryTreeNode pLeft, BinaryTreeNode pRight) {
+        if (pParent != null) {
+            pParent.left = pLeft;
+            pParent.right = pRight;
+        }
+    }
 }
