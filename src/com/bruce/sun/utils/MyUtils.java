@@ -76,4 +76,14 @@ public class MyUtils {
             pParent.right = pRight;
         }
     }
+
+    public static void printTree(BinaryTreeNode pRoot) {
+        if (pRoot == null) {
+            return;
+        }
+
+        MyUtils.print(pRoot.value + "\t");
+        printTree(pRoot.left);
+        printTree(pRoot.right);
+    }
 }
