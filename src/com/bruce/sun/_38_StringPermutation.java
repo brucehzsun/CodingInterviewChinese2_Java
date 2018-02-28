@@ -30,18 +30,22 @@ public class _38_StringPermutation {
     private static void printPermutation(char[] chars, int startPos) {
 
         if (startPos == chars.length - 1) {
+            //打印最终结果
             for (char s : chars) {
                 MyUtils.print(s + "\t");
             }
             MyUtils.print("\n");
         } else {
             for (int i = startPos; i < chars.length; i++) {
+                //置换，使得第一位分别是：a,b,c
                 char temp = chars[i];
                 chars[i] = chars[startPos];
                 chars[startPos] = temp;
 
+                //对后两位按照同样方法处理；
                 printPermutation(chars, startPos + 1);
 
+                //换回来，要不a后面就不是b和c了；
                 temp = chars[i];
                 chars[i] = chars[startPos];
                 chars[startPos] = temp;
