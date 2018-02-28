@@ -36,6 +36,7 @@
 ##### _33_SquenceOfBST 面试题33：二叉搜索树的后序遍历序列
 ##### _34_PathInTree 面试题34：二叉树中和为某一值的路径
 ##### _36_ConvertBinarySearchTree 面试题36：二叉搜索树与双向链表
+##### _37_SerializeBinaryTrees 面试题37：序列化二叉树
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
