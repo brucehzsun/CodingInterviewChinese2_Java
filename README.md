@@ -29,6 +29,7 @@
 ##### _28_SymmetricalBinaryTree 面试题28：对称的二叉树
 ##### _29_PrintMatrix 面试题29：顺时针打印矩阵
 ##### _30_MinInStack 面试题30：包含min函数的栈
+##### _31_StackPushPopOrder  面试题31：栈的压入、弹出序列
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
