@@ -28,6 +28,7 @@
 ##### _27_MirrorOfBinaryTree 面试题27：二叉树的镜像
 ##### _28_SymmetricalBinaryTree 面试题28：对称的二叉树
 ##### _29_PrintMatrix 面试题29：顺时针打印矩阵
+##### _30_MinInStack 面试题30：包含min函数的栈
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
