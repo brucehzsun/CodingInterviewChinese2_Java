@@ -40,11 +40,6 @@ public class MyUtils {
         MyUtils.print("\nPrintList ends.\n");
     }
 
-    public static void connectTree(BinaryTreeNode root, BinaryTreeNode left, BinaryTreeNode right) {
-        root.left = left;
-        root.right = right;
-    }
-
     public static void connectTreeParent(BinaryTreeNode root, BinaryTreeNode left, BinaryTreeNode right) {
         root.left = left;
         root.right = right;
