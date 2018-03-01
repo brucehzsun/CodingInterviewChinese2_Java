@@ -41,6 +41,7 @@
 ##### _39_MoreThanHalfNumber 面试题39：数组中出现次数超过一半的数字
 ##### _40_KLeastNumbers 面试题40：最小的k个数
 未实现最大堆算法
+##### _42_GreatestSumOfSubarrays 面试题42：连续子数组的最大和
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
