@@ -46,6 +46,7 @@
 ##### _50_01_FirstNotRepeatingChar 面试题50（一）：字符串中第一个只出现一次的字符
 ##### _50_02_FirstCharacterInStream 面试题50（二）：字符流中第一个只出现一次的字符
 ##### _52_FirstCommonNodesInLists 面试题52：两个链表的第一个公共结点
+##### _53_01_NumberOfK 面试题53（一）：数字在排序数组中出现的次数
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
