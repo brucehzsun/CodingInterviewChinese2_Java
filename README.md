@@ -42,6 +42,7 @@
 ##### _40_KLeastNumbers 面试题40：最小的k个数
 未实现最大堆算法
 ##### _42_GreatestSumOfSubarrays 面试题42：连续子数组的最大和
+##### _49_UglyNumber 面试题49：丑数
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
