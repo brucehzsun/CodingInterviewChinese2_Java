@@ -39,6 +39,8 @@
 ##### _37_SerializeBinaryTrees 面试题37：序列化二叉树
 ##### _38_StringPermutation 面试题38：字符串的排列
 ##### _39_MoreThanHalfNumber 面试题39：数组中出现次数超过一半的数字
+##### _40_KLeastNumbers 面试题40：最小的k个数
+未实现最大堆算法
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
