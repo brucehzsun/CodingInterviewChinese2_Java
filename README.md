@@ -49,6 +49,7 @@
 ##### _53_01_NumberOfK 面试题53（一）：数字在排序数组中出现的次数
 ##### _53_02_MissingNumber 面试题53（二）：0到n-1中缺失的数字
 ##### _53_03_IntegerIdenticalToIndex 面试题53（三）：数组中数值和下标相等的元素
+##### _54_KthNodeInBST 面试题54：二叉搜索树的第k个结点
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
