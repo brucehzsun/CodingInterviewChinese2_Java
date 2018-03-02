@@ -56,6 +56,7 @@
 ##### _57_02_ContinuousSquenceWithSum 面试题57（二）：为s的连续正数序列
 ##### _58_01_ReverseWordsInSentence 面试题58（一）：翻转单词顺序
 ##### _58_02_LeftRotateString 面试题58（二）：左旋转字符串
+##### _59_01_MaxInSlidingWindow 面试题59（一）：滑动窗口的最大值
 
 ##### BinaryTreeTraversal 二叉树的前序，中序，后序遍历
 ##### QuickSort 快速排序
